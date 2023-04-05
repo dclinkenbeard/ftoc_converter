@@ -12,4 +12,8 @@ public class Util {
         fahrenheit = (celsius*(9/5.0)+32);
         return fahrenheit;
     }
+
+    public static boolean working(){
+        return true;
+    }
 }
